@@ -4,3 +4,5 @@ Has 3 variants:
 * All buttons reaction test - A, X, B, Y, LT, LB, RT, RB
 
 Written using AI (ChatGPT 5.2)
+
+Dependencies: pygame
