@@ -6,3 +6,5 @@ Has 3 variants:
 Written using AI (ChatGPT 5.2)
 
 Dependencies: pygame
+
+Prints your stats at the end and saves them.
